@@ -1,0 +1,5 @@
+# MyCamp
+It is a final year project 2023
+This project is about campgrounds in nepal .
+User can register and login to the syste and create their own new camooground.
+Other user can comment and give a like to the campgroound.
